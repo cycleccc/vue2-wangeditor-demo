@@ -9,7 +9,7 @@
     "test": "cross-env NODE_OPTIONS=--unhandled-rejections=warn jest --unhandled-rejections=warn"
   },
   "dependencies": {
-    "@wangeditor-next/editor": "^5.2.5",
+    "@wangeditor-next/editor": "^5.3.12",
     "@wangeditor-next/editor-for-vue2": "^1.0.2",
     "core-js": "^3.6.5",
     "element-ui": "^2.15.5",
